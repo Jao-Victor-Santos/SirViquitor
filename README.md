@@ -35,4 +35,16 @@
 </a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SirViquitor&theme=blueberry-duo&hide_border=true&border_radius=4&exclude_days=Sun&card_width=500" alt="GitHub Streak" /></a>
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=SirViquitor&theme=blueberry-duo&hide_border=true&border_radius=4&exclude_days=Sun&card_width=500"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
