@@ -50,6 +50,17 @@
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  ![Canva](https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva)
+  ![PhotoShop](https://img.shields.io/badge/photoshop-100000?style=for-the-badge&logo=photoshop)
+  ![Adobe XD](https://img.shields.io/badge/adobexd-100000?style=for-the-badge&logo=adobexd)
+  </details>
+
+   <details>
+    <summary>Soft Skills</summary>
+    
+  ![Design](https://img.shields.io/badge/design-100000?style=for-the-badge&logoColor=darkblue)
+  ![UI](https://img.shields.io/badge/ui-100000?style=for-the-badge&logoColor=magenta)
+  ![UX](https://img.shields.io/badge/ux-100000?style=for-the-badge&logoColor=midnightblue)
   </details>
 
 
