@@ -34,6 +34,26 @@
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
 </a>
 
+# My Skills
+  
+ <details>
+    <summary>Languages</summary>
+       
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  
+  </details>
+  <details>
+    <summary>Tools</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  </details>
+
+
 
 # My Status
 <div>
