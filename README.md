@@ -40,8 +40,7 @@
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-  [![](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
-[![](http://flutter-badge.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+  ![Flutter](https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=Flutter&logoColor=blue)
 
   
   </details>
