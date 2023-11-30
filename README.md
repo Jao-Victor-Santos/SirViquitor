@@ -1,14 +1,15 @@
 
 <p align="left">
       Hello! my name is Viquitor... What do you mean you've never heard of me?
-
-      I'm a 25-year-old, and I'm an aspiring <strong>Frontend Developer</strong>, specializing in <strong>UI/UX</strong>.
-      Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
 </p>
 
 <p align="left">
     I'm studying <strong>software engineering</strong>.
+</p>
+<p align="left">
     I'm focusing my studies on <strong>React, JavaScript and Go</strong>.
+</p>
+<p align="left">
     But my main languages ​​Java and Dart/Flutter. I also know a little Prolog, C# and ASP.NET.
 </p>
 
