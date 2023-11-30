@@ -41,6 +41,7 @@
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   ![Flutter](https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=Flutter&logoColor=blue)
+  ![ASP.NET](https://img.shields.io/badge/asp.net-100000?style=for-the-badge&logo=ASP.NET)
 
   
   </details>
