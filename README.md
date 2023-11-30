@@ -10,10 +10,6 @@
     I'm focusing my studies on <strong>React, JavaScript and Go</strong>.
 </p>
 <p align="left">
-    But my main languages ​​Java and Dart/Flutter. I also know a little Prolog, C# and ASP.NET.
-</p>
-
-<p align="left">
  <strong>You can find me on:<strong>
 </p>
 
@@ -44,7 +40,8 @@
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-  ![Flutter](https://img.shields.io/badge/Flutter%2FDart?logo=Flutter)
+  [![](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![](http://flutter-badge.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
 
   
   </details>
