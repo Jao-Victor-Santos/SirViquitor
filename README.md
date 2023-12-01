@@ -37,11 +37,13 @@
        
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  ![Prolog](https://img.shields.io/badge/Prolog-100000?style=for-the-badge&logo=Prolog)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
   ![Flutter](https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=Flutter&logoColor=blue)
   ![ASP.NET](https://img.shields.io/badge/asp.net-100000?style=for-the-badge&logo=ASP.NET)
+  ![Haskel](https://img.shields.io/badge/Haskel-100000?style=for-the-badge&logo=Haskel)
 
   
   </details>
