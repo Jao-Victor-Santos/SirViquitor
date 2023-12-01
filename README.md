@@ -53,6 +53,7 @@
   ![Canva](https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva)
   ![Photoshop](https://img.shields.io/badge/photoshop-100000?style=for-the-badge&logo=photoshop)
   ![Adobe XD](https://img.shields.io/badge/adobexd-100000?style=for-the-badge&logo=adobexd)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap)
   </details>
 
    <details>
